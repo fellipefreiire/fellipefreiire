@@ -1,32 +1,41 @@
-### Hi I'm Felipe Freire 👋
+# 👋 Hi, I'm Felipe Freire
 
-- 🔭 I’m currently working as a Freelancer with React.
-- 🌱 I’m currently learning React Native.
-- 🤔 I’m looking for help with Software Architecture
-- 📫 How to reach me: fellipefreiire3@gmail.com
+🎯 Frontend Engineer focused on building scalable, well-architected apps using **React**, **Next.js**, and **TypeScript**.  
+🌍 Based in Brazil – Open to remote opportunities.
 
-<img src="https://github-readme-stats.vercel.app/api?username=fellipefreiire&&show_icons=true&title_color=00fea1&icon_color=ba99f6&text_color=ffffff&bg_color=121214&hide_border=true&count_private=true" />
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellipefreiire&hide=dart,c%2b%2b,cmake,java,objective-c%2b%2b&&bg_color=121214&text_color=ffffff&title_color=00fea1&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 💼 Experience
 
-### My Portfolio Project
+- 🏢 **Frontend Engineer @ F4G Sistemas** (Jun 2023 - Present)  
+  Architected and maintained a multi-tenant Next.js application. Integrated Redis to support caching and pod-based infrastructure.  
+  I also mentor teammates, enforce frontend patterns, and lead technical decisions.
 
-#### ⚠ Under Development ⚠
+- 👨‍💻 **Freelance Frontend Developer** (Jan 2022 - Jun 2023)  
+  Built landing pages and small apps for clients. Delivered responsive UIs and solved frontend issues.
 
-<div style="display: flex;gap: 64px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fellipefreiire&repo=portfolio-frontend-home&&bg_color=121214&text_color=ffffff&title_color=00fea1&hide_border=true&icon_color=ffffff" />
-  </a>
+---
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fellipefreiire&repo=portfolio-frontend-about&&bg_color=121214&text_color=ffffff&title_color=00fea1&hide_border=true&icon_color=ffffff" />
-  </a>
+## ⚙️ Tech Stack
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fellipefreiire&repo=portfolio-frontend-study&&bg_color=121214&text_color=ffffff&title_color=00fea1&hide_border=true&icon_color=ffffff" />
-  </a>
+**Languages & Frameworks**  
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS`
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fellipefreiire&repo=portfolio-frontend-projects&&bg_color=121214&text_color=ffffff&title_color=00fea1&hide_border=true&icon_color=ffffff" />
-  </a>
-</div>
+**Styling & UI**  
+`Tailwind CSS` `Framer Motion`
+
+**Tools & DevOps**  
+`Git` `Docker` `PostgreSQL` `Redis` `REST APIs`
+
+---
+
+## 🚀 Featured Projects
+
+👉 [dev-portfolio-landing-page](https://dev-portfolio-landing-page-sigma.vercel.app/) — Dev portfolio landing page
+👉 [dark-saas-landing-page](https://dark-saas-landing-page-taupe.vercel.app/) — Dark saas landing page
+👉 [light-saas-landing-page](https://light-saas-landing-page-opal.vercel.app/) — Light saass landing page
+👉 [ai-landing-page](https://ai-landing-page-flame.vercel.app/) — AI landing page
+👉 [next-saas-rbac](#) — Auth.js + RBAC role-based access control
+
+
+Check out more below 👇 or visit [my LinkedIn](https://www.linkedin.com/in/ffreiredev/)
