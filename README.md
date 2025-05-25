@@ -31,11 +31,11 @@
 
 ## 🚀 Featured Projects
 
-👉 [dev-portfolio-landing-page](https://dev-portfolio-landing-page-sigma.vercel.app/) — Dev portfolio landing page
-👉 [dark-saas-landing-page](https://dark-saas-landing-page-taupe.vercel.app/) — Dark saas landing page
-👉 [light-saas-landing-page](https://light-saas-landing-page-opal.vercel.app/) — Light saass landing page
-👉 [ai-landing-page](https://ai-landing-page-flame.vercel.app/) — AI landing page
-👉 [next-saas-rbac](#) — Auth.js + RBAC role-based access control
+- 👉 [dev-portfolio-landing-page](https://dev-portfolio-landing-page-sigma.vercel.app/) — Dev portfolio landing page
+- 👉 [dark-saas-landing-page](https://dark-saas-landing-page-taupe.vercel.app/) — Dark saas landing page
+- 👉 [light-saas-landing-page](https://light-saas-landing-page-opal.vercel.app/) — Light saass landing page
+- 👉 [ai-landing-page](https://ai-landing-page-flame.vercel.app/) — AI landing page
+- 👉 [next-saas-rbac](#) — Auth.js + RBAC role-based access control
 
 
 Check out more below 👇 or visit [my LinkedIn](https://www.linkedin.com/in/ffreiredev/)
